@@ -1,4 +1,4 @@
-#LuxSpace
+LuxSpace
 
 Required app
 
