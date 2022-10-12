@@ -1,6 +1,6 @@
 <h3>LuxSpace</h3>
 
-Required app
+Required app:
 
 - React
 - Tailwind
